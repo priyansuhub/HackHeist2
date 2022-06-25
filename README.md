@@ -103,3 +103,89 @@ Note:- Tier3 means any college that have highest package between 4-8LPA
 Each SBT opens up an opportunity portal for each startup company
 SDEIntern after college, if student gets into KIIT VIT IIT NIT etc
 SBT is revoked!
+
+=========================Off chain stuffs=============================
+if you want to test it
+here are the data to put
+merkle
+
+    Tree Hash :-0xd62217fa6e6b85bad0fc2fe553fbdfdef6e575fe348e08ccb7e2a65d74b181d2
+    Leaf Hash :-0xAb8483F64d9C6d1EcF9b849Ae677dD0000000000000000000000000000000000
+
+    ["0x5931b4ed56ace4c46b68524cb5bcbf4195f1bbaacbe5228fbd090546c88dd229","0x056d1439b159e9aea07c84d40a2602be4b31e6927f0351c443076a7793ce2fa4","0x6d6cbee8dcc53afd0fe8468716e17f2c38de5112a301ca32c586f1daa063b47d","0x7ebe0de29163910336a767ec85de31db97c03cad12d264c6a3106088cf4c0f82","0x690beed26cf328227f23c0cbeecbb85280b30be6d94ac54ce44599b834cfb9f4"]
+
+Q1
+
+    Q:- What is this hackathon
+    ans:- HackHeist
+    Hash:- 0xfae53eba30f205fc483c34e59e54795a75c6cb417fe6824762208bbf62401640
+
+Q2
+
+    Q:- Who created this application
+    ans:- Priyansu
+    Hash:- 0x7c7db72a38a04004b6426d6cb8d0e2b99de141b317c79970b7399f8053b6a1f1
+
+Q3
+
+    Q:- Who are the team members?
+    ans:- PriyansuOnly
+    Hash:- 0x38feedd3b449e6b05582af6685a6e9d0c8d384e7c1354e1003565c86bd2550cb
+
+Q4
+
+    Q:- What is 2 + 2?
+    ans:- four
+    Hash:- 0x1f74d85630f53cf458fb11266346a6a630ee678f248b72b7b2e516022eabed5d
+
+Q5
+
+    Q:- what is 3 + 3?
+    ans:- nine
+    Hash:- 0x06ef05f5d5c8dfe485565bc3dd884c6d42d69ff924fda225da07fe0dc9bbd890
+
+Q6
+
+    Q:- Goku is stronger than Saitama?
+    ans:- Yes
+    Hash:- 0xb5094a57496778a7a102e5291db97ec95f29f38b3aacdfb2bfa24a93e50db40c
+
+Q7
+
+    Q:-  best uchiha?
+    ans:- Itachi
+    Hash:- 0x3a9933bea2dba38913818f5677be904de39b63b7f205b159628259e9bf6686b6
+
+Q8
+
+    Q:- Who has the best Susano?
+    ans:- Indra
+    Hash:- 0x1fc1c192afdf8b044ca31e6571bcc36599e320389d1f7eba212a9a395633aafb
+
+Q9
+
+    Q:- Can they ever make Rust simple?
+    ans: No
+    Hash:- 0x2ad50ac40f195370ffe36b7d2385277f0e6eacb46ede6070f5f9fcb93bfa19bd
+
+Q10
+
+    Q:- Best villian in Naruto?
+    ans: Pain
+    Hash:- 0x0f1b1790c1b7bc872a72b2f7953a8562ee790faa5b777c2c5e43204bbae215bb
+
+## IPFS Hash
+
+- FROM STUDENT TO ERC725 instance
+
+Student address:- "REMIX OR HARDHAT ANY ADDRESS EXCEPT DEPLOYER"
+
+    Key: Profile
+    KeyHash:- 0x50726f66696c6500000000000000000000000000000000000000000000000000
+    IpfsHash:-QmYi1z5gQ5hUseqwmC2GUXLZUvSXqP4NtMG49so5NgDkpZ
+    HashedIpfsHash:- 0x516d5969317a356751356855736571776d43324755584c5a557653587150344e744d473439736f354e67446b705a
+
+    Key: CollegeCard
+    KeyHash:- 0x436f6c6c65676543617264000000000000000000000000000000000000000000
+    IpfsHash:- QmRjbC7pgNHStsNgGoqYoH69xnc8hKgCcsbM9wGma8hE5s
+    HashedIpfsHash:- 0x516d526a62433770674e485374734e67476f71596f483639786e6338684b67436373624d3977476d613868453573
